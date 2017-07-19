@@ -1,0 +1,23 @@
+ENVI
+description = {
+  Applied Mask Result [Wed Mar 01 14:12:06 2017]}
+samples = 498
+lines   = 520
+bands   = 7
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 1262
+y start = 834
+map info = {Sinusoidal, 1.0000, 1.0000, 12815693.0518, 1837961.5464, 4.6331271653e+002, 4.6331271653e+002, D_Unknown, units=Meters}
+projection info = {16, 6371007.2, 0.000000, 0.0, 0.0, D_Unknown, Sinusoidal, units=Meters}
+coordinate system string = {PROJCS["Sinusoidal",GEOGCS["GCS_Unknown",DATUM["D_Unknown",SPHEROID["S_Unknown",6371007.181,0.0]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Sinusoidal"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ ROI Mask (Band 1:2003001_ref), ROI Mask (Band 2:2003001_ref), 
+ ROI Mask (Band 3:2003001_ref), ROI Mask (Band 4:2003001_ref), 
+ ROI Mask (Band 5:2003001_ref), ROI Mask (Band 6:2003001_ref), 
+ ROI Mask (Band 7:2003001_ref)}
